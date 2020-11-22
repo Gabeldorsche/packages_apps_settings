@@ -37,7 +37,7 @@ public class SimpleBuildNumberPreferenceController extends BasePreferenceControl
 
     @Override
     public CharSequence getSummary() {
-        return BidiFormatter.getInstance().unicodeWrap(Build.DISPLAY);
+        return BidiFormatter.getInstance().unicodeWrap(Build.ID);
     }
 }
 // LINT.ThenChange(SimpleBuildNumberPreference.kt)

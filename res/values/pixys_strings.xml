@@ -50,4 +50,8 @@
     <string name="play_integrity_update_summary">Download and apply latest fingerprint to spoof</string>
     <string name="play_update_title">Update fingerprint</string>
     <string name="play_fingerprint">Current spoofed values</string>
+
+    <!-- Circle to Search -->
+    <string name="search_gesture_feature_summary">Touch and hold the Home button or the navigation handle to search using the content on your screen.</string>
+    <string name="search_gesture_feature_title">Circle to Search</string>
 </resources>
